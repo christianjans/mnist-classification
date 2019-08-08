@@ -1,0 +1,3 @@
+Add mnist_train.csv and mnist_test.csv in this folder.
+
+Also, do not rename these .csv files.
